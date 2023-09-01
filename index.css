@@ -1,0 +1,86 @@
+.main {
+  height: 550px;
+}
+.main-1 {
+  background-color: #f0de36;
+  color: #ea1179;
+}
+.main-1 h2 {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.main-2 {
+  background-color: #ea1179;
+}
+.apple {
+  height: 400px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.main-1 button {
+  margin: 80px 250px;
+  background-color: #ea1179;
+  color: #f0de36;
+}
+
+.main2-1 {
+  background-color: #fe0000;
+}
+.main2-2 h2 {
+  text-align: center;
+  margin-top: 200px;
+  color: #fe0000;
+}
+
+.main2-2 {
+  background-color: #000000;
+}
+.tesla {
+  height: 300px;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+.main2-2 button {
+  margin: 80px 250px;
+  background-color: #fe0000;
+  color: #000000;
+}
+
+/* carousel 3 */
+
+.main3-1 {
+  background-color: #000000;
+}
+.main3-1 h2 {
+  text-align: center;
+  margin-top: 200px;
+  color: #525fe1;
+}
+
+.main3-2 {
+  background-color: #525fe1;
+}
+.meta {
+  height: 200px;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+.main3-1 button {
+  margin: 80px 250px;
+  background-color: #525fe1;
+  color: #000000;
+}
+.sec-2-lines {
+  font-size: 502x;
+  margin: 60px;
+  padding: 10px;
+  text-align: center;
+  font-family: monospace;
+}
+
+.sec3 {
+  background-color: black;
+
+  padding: 100px;
+}
